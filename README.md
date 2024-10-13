@@ -1,4 +1,4 @@
-[![Netlify Status]()
+[![Netlify Status](https://ahmadsafdar.netlify.app/)
 <img src="https://komarev.com/ghpvc/?username=deepakpadhi986&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpadhi986" />
 <p>🌴🚧 Under Development</p>
 <p>Previous versions has been sucked 🤬, because of new file structure 😔</p>
