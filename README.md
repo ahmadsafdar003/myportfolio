@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4d9183ee-0caa-48ab-803a-a97fbce157ff/deploy-status)(https://app.netlify.com/teams/ahmadsafdar003/sites)
 <img src="https://komarev.com/ghpvc/?username=deepakpadhi986&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpadhi986" />
 <p>🌴🚧 Under Development</p>
 <p>Previous versions has been sucked 🤬, because of new file structure 😔</p>
