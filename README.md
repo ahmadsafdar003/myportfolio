@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=deepakpadhi986&label=Profile%20views&color=0e75b6&style=flat" alt="deepakpadhi986" />
 <p>🌴🚧 Under Development</p>
 <p>Previous versions has been sucked 🤬, because of new file structure 😔</p>
-<h1 align="center">Ahmad safdar</h1>
+<h1 align="center">The noob developer</h1>
 <p align="center">Ahmad safdar Portfolio.</p>
 <h2 align="center">Hi 👋, I'm Ahmad safdar</h2>
 <h3>A Noob Web Developer</h3>
